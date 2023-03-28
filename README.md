@@ -4,3 +4,5 @@
 The code is used to process EEG sleep data, a big job from machine learning, using linear models, decision trees, linear kernels and Gaussian kernel support vector machines, Gaussian naïve Bayes classifiers and neural networks (LSTMs) to classify the EEG C3 channel data during sleep for four classifications.
 At that time, the data set used in the big job was real patient data, which required the reading of EDF files in MATLAB
 email:727004430@qq.com
+补充一点：这些代码带有word文档的说明，如果需要，可以联系我
+To add: these codes come with instructions in a word document, you can contact me if needed
